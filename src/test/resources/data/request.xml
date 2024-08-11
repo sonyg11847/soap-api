@@ -1,0 +1,22 @@
+<!--<soapenv:Envelope-->
+<!--        xsi:schemaLocation="http://schemas.xmlsoap.org/soap/envelope/ http://schemas.xmlsoap.org/soap/envelope"-->
+<!--        xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+<!--        xmlns:gs="INFO_API">-->
+<!--    <soapenv:Header/>-->
+<!--    <soapenv:Body>-->
+<!--        <gs:getInfoRequest>-->
+<!--            <gs:filename>dummy.xml</gs:filename>-->
+<!--        </gs:getInfoRequest>-->
+<!--    </soapenv:Body>-->
+<!--</soapenv:Envelope>-->
+<soapenv:Envelope
+xsi:schemaLocation="http://schemas.xmlsoap.org/soap/envelope/ http://schemas.xmlsoap.org/soap/envelope"
+xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:gs="INFO_API">
+<soapenv:Header/>
+<soapenv:Body>
+    <gs:getInfoRequest>
+        <gs:filename>dummy.xml</gs:filename>
+    </gs:getInfoRequest>
+</soapenv:Body>
+</soapenv:Envelope>

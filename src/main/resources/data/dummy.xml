@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+    <data>
+        <id>AA0001</id>
+        <name>강호동</name>
+        <tel>010-1234-5678</tel>
+        <programs>
+            <program>
+                <program_name>스타킹</program_name>
+                <ch>SBS</ch>
+                <day>Sat</day>
+                <time>20:00</time>
+            </program>
+            <program>
+                <program_name>1박2일</program_name>
+                <ch>KBS</ch>
+                <day>Sun</day>
+                <time>18:00</time>
+            </program>
+        </programs>
+    </data>
+    <data>
+        <id>AA0002</id>
+        <name>유재석</name>
+        <tel>010-9999-5678</tel>
+        <programs>
+            <program>
+                <program_name>상상플러스</program_name>
+                <ch>KBS</ch>
+                <day>Sat</day>
+                <time>20:00</time>
+            </program>
+            <program>
+                <program_name>무한도전</program_name>
+                <ch>MBC</ch>
+                <day>Sun</day>
+                <time>18:00</time>
+            </program>
+        </programs>
+    </data>
+</info>
